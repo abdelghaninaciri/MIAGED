@@ -76,7 +76,7 @@ class _ProfilPageState extends State<ProfilPage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'Votre Nom est : Jad' + name!,
+                  'Votre Nom est :' + name!,
                   style: const TextStyle(
                     fontSize: 25.0,
                     fontWeight: FontWeight.bold,
@@ -90,7 +90,7 @@ class _ProfilPageState extends State<ProfilPage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'Votre age est : 19' + age!,
+                  'Votre age est :' + age!,
                   style: const TextStyle(
                     fontSize: 25.0,
                     fontWeight: FontWeight.bold,
@@ -104,7 +104,7 @@ class _ProfilPageState extends State<ProfilPage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'Votre code est : 10000' + code!,
+                  'Votre code est :' + code!,
                   style: const TextStyle(
                     fontSize: 25.0,
                     fontWeight: FontWeight.bold,
@@ -118,7 +118,7 @@ class _ProfilPageState extends State<ProfilPage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'Votre ville est : Rabat' + ville!,
+                  'Votre ville est :' + ville!,
                   style: const TextStyle(
                     fontSize: 25.0,
                     fontWeight: FontWeight.bold,
@@ -132,7 +132,7 @@ class _ProfilPageState extends State<ProfilPage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'Votre Email est : jad@gmail.com' + email!,
+                  'Votre Email est :' + email!,
                   style: const TextStyle(
                     fontSize: 25.0,
                     fontWeight: FontWeight.bold,
